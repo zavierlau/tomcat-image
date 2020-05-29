@@ -1,4 +1,4 @@
-FROM Java
+FROM java
 MAINTAINER zav
 
 RUN apt-get install -y wget
